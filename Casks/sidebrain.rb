@@ -1,6 +1,6 @@
 cask "sidebrain" do
-  version "0.71.2"
-  sha256 "6f42f774af60cbc7ee7924d1b926239c7864662f4ea144e334ea904117811c8b"
+  version "0.71.5"
+  sha256 "486cfc400ed40dee1b8f09b66322e0543a8bb256e00b2f56267c2f8380a1a296"
 
   url "https://dl.sidebrain.eu/downloads/SideBrain-#{version}-aarch64.dmg"
   name "SideBrain"
